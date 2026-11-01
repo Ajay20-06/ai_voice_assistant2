@@ -1,0 +1,24 @@
+# Core
+python-dotenv
+
+# LiveKit
+livekit-agents
+livekit-plugins-openai
+livekit-plugins-deepgram
+livekit-plugins-murf
+livekit-plugins-silero
+livekit-plugins-noise-cancellation
+livekit-plugins-google
+
+# Twilio (Emergency Call)
+twilio
+
+# System Control
+pyautogui
+opencv-python
+pycaw
+comtypes
+psutil
+
+# HTTP requests (optional but used)
+requests
